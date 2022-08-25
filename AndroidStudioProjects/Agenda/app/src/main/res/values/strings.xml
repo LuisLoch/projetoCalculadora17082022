@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Agenda</string>
+    <string name="hint_entre_com_nome">Entre com nome:</string>
+    <string name="hint_entre_com_o_n_mero">Entre com o número:</string>
+    <string name="salvar">Salvar</string>
+    <string name="hint_salvar">salvar</string>
 </resources>
